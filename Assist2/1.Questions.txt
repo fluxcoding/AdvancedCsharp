@@ -1,0 +1,12 @@
+Interface dali od parentot so ke gi naznacime elementite moraat da dobijat vrednost u decata
+metodite da
+
+zosto pravime prazen konstruktor
+-zoso koa praime vtor konstruktor so parametri, prazniot ne se kreira
+-inace pod default se kreira prazniot
+
+dali pisuvame abstract na site propertinja i zosto pisuvame
+-ne because abstract koa e klasata site se abstract properties
+
+zoso kaj class 2 shapes : base pisuvame
+zoso propertinjata se private i nemozeme da im stigneme do vrednostite

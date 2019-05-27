@@ -1,0 +1,6 @@
+C:\Users\Fluxten\Desktop\HomeworkLINQ\Entities for Homework\bin\Debug\Entities for Homework.dll
+C:\Users\Fluxten\Desktop\HomeworkLINQ\Entities for Homework\bin\Debug\Entities for Homework.pdb
+C:\Users\Fluxten\Desktop\HomeworkLINQ\Entities for Homework\obj\Debug\Entities for Homework.csprojAssemblyReference.cache
+C:\Users\Fluxten\Desktop\HomeworkLINQ\Entities for Homework\obj\Debug\Entities for Homework.csproj.CoreCompileInputs.cache
+C:\Users\Fluxten\Desktop\HomeworkLINQ\Entities for Homework\obj\Debug\Entities for Homework.dll
+C:\Users\Fluxten\Desktop\HomeworkLINQ\Entities for Homework\obj\Debug\Entities for Homework.pdb

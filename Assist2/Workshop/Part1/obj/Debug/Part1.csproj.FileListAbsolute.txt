@@ -1,0 +1,14 @@
+C:\Users\teodor.bocevski\Desktop\AdvancedCsharp\Workshop\Part1\bin\Debug\Part1.exe.config
+C:\Users\teodor.bocevski\Desktop\AdvancedCsharp\Workshop\Part1\bin\Debug\Part1.exe
+C:\Users\teodor.bocevski\Desktop\AdvancedCsharp\Workshop\Part1\bin\Debug\Part1.pdb
+C:\Users\teodor.bocevski\Desktop\AdvancedCsharp\Workshop\Part1\obj\Debug\Part1.csprojAssemblyReference.cache
+C:\Users\teodor.bocevski\Desktop\AdvancedCsharp\Workshop\Part1\obj\Debug\Part1.csproj.CoreCompileInputs.cache
+C:\Users\teodor.bocevski\Desktop\AdvancedCsharp\Workshop\Part1\obj\Debug\Part1.exe
+C:\Users\teodor.bocevski\Desktop\AdvancedCsharp\Workshop\Part1\obj\Debug\Part1.pdb
+C:\Users\teodor.bocevski\Desktop\Workshop\Part1\bin\Debug\Part1.exe.config
+C:\Users\teodor.bocevski\Desktop\Workshop\Part1\bin\Debug\Part1.exe
+C:\Users\teodor.bocevski\Desktop\Workshop\Part1\bin\Debug\Part1.pdb
+C:\Users\teodor.bocevski\Desktop\Workshop\Part1\obj\Debug\Part1.csprojAssemblyReference.cache
+C:\Users\teodor.bocevski\Desktop\Workshop\Part1\obj\Debug\Part1.csproj.CoreCompileInputs.cache
+C:\Users\teodor.bocevski\Desktop\Workshop\Part1\obj\Debug\Part1.exe
+C:\Users\teodor.bocevski\Desktop\Workshop\Part1\obj\Debug\Part1.pdb
